@@ -1,22 +1,6 @@
-# TaskAI - AI-Powered Task Management Platform
-
-TaskAI is an intelligent task management application that uses AI to enhance productivity and engagement. The platform combines traditional task management with AI-powered suggestions and a Speaking Practice module for language learning.
+# SpeakPro - AI-Powered Speaking Practice Platform
 
 ## Features
-
-### Task Management
-- Kanban-style board for task organization
-- CRUD operations for tasks with drag-and-drop functionality
-- Task filtering and categorization with tags
-- Task priorities and due dates
-
-### AI Integration
-- AI-powered task suggestions based on user goals
-- Smart prioritization of tasks
-- Task summary and insights
-- OpenAI GPT-4o integration
-
-### Speaking Practice Module
 - AI tutor for language learning
 - Conversation practice with AI
 - Personalized exercises and feedback
